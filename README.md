@@ -138,6 +138,10 @@ To make it easier to interact with the DeepSeek R1 model, you can add a **Gradio
 
 ---
 
+![Gradio UI Example](path_to_image)
+
+---
+
 ## Step 8: Save Your Work
 1. To save your Colab notebook, go to **File > Save a copy in Drive**.
 2. Choose the folder you created earlier (e.g., `DeepSeek-R1-Project`).
