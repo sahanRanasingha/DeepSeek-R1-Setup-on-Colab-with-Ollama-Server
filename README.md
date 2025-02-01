@@ -138,7 +138,7 @@ To make it easier to interact with the DeepSeek R1 model, you can add a **Gradio
 
 ---
 
-![Gradio UI Example](path_to_image)
+![Gradio UI Example](https://github.com/sahanRanasingha/DeepSeek-R1-Setup-on-Colab-with-Ollama-Server/blob/main/Images/deepSeeek.png?raw=true)
 
 ---
 
